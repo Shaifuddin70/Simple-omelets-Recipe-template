@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(249, 237, 222);
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: rgb(92, 88, 85);
+}
+h2,h1{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: rgb(28, 27, 27);
+}
+h2{
+    color: rgb(108, 68, 65);
+}
+.container {
+  background-color: white;
+  padding: 40px;
+}
+img {
+  border-radius: 20px;
+}
+h3{
+    color: rgb(106, 42, 68);
+}
+.time{
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+.nutri-name p{
+    display: inline-block;
+}
+.item{
+    text-align: left;
+    width: 30%;
+    padding-left: 20px;
+}
+.unit{
+    text-align: right;
+    width: 25%;
+    color: rgb(106, 42, 68);
+    font-weight: bold;
+}
+li{
+    padding: 5px;
+}
+.top-content,.instruction,.Ingredients{
+    padding-bottom: 20px;
+}
